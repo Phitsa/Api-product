@@ -1,4 +1,4 @@
-package br.com.anthony.api_products.commom;
+package br.com.anthony.api_products.common;
 
 import org.modelmapper.ModelMapper;
 import org.springframework.context.annotation.Bean;
